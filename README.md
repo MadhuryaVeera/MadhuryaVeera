@@ -3,6 +3,10 @@
 </p>
 
 ---
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7d76b023-866a-43c2-a985-8cb9a09d9c96" />
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=madhurya-veera&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
@@ -108,7 +112,9 @@
 </p>
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=109E14&width=435&lines=GitHub+Statistics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=109E14&width=435&lines=⚡GitHub+Statistics" alt="Typing SVG" /></a>
+
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhuryaVeera&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=MadhuryaVeera&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -127,5 +133,5 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" height="100">
 
