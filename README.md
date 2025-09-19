@@ -2,12 +2,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F737CB&width=435&lines=Welcome+to+my+Github+Profile!;I'm+Madhurya+Veera.;I'm+a+cloud+Enthusiastic." alt="Typing SVG" /></a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=madhurya-veera&label=Profile%20Views&color=0e75b6&style=flat)
 ---
-
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7d76b023-866a-43c2-a985-8cb9a09d9c96" />
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=madhurya-veera&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+**🏆 Git Profile Trophies**
+
+---
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -112,7 +116,19 @@
 </p>
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=109E14&width=435&lines=⚡GitHub+Statistics" alt="Typing SVG" /></a>
+
+🌟**What I'm Working On**
+
+---
+•📚 Contributing to open-source projects .
+
+•🎯 Mainly focused on the Agents with AWS.
+
+•🔍 Explorinng the AI-powdered solutions with real-world problems.
+
+---
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=109E14&width=435&lines=GitHub+Statistics" alt="Typing SVG" /></a>
 
 ---
 <p align="center">
@@ -125,11 +141,9 @@
 </p>
 
 ---
-
-
-
-
-
+<p align="center">
+✨ "Solving real-world problems with creative, tech-driven solutions!" ✨
+</p>
 
 
 
