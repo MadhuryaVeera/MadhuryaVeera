@@ -148,12 +148,17 @@
 ## ⚡ Hacktoberfest 2025 Badges (Open-Source-Contributor)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/0425ef02-2e5b-491a-ba79-8496c7a3159d.png" 
-       alt="Hacktoberfest 2025 Badges" 
+  <img src="https://raw.githubusercontent.com/MadhuryaVeera/MadhuryaVeera/main/Badges.png"
+       alt="Hacktoberfest 2025 Badges"
        width="800">
 </p>
 
-🏆 Proud participant of **Hacktoberfest 2025**, contributing to open-source projects and earning official badges for community impact.
+
+<p align="center">
+🏆 Proud Open-Source Contributor in Hacktoberfest 2025 🚀 
+ 🌱 Certified Tree Contributor — *Madhurya Veera*
+</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" height="100">
